@@ -1,0 +1,8 @@
+# Full YAML is not supported
+# Only minimal VARIABLE: VALUE are supported
+
+BOSH_RELEASE: 6.1.1
+
+SYSTEM_DOMAIN: bosh-lite.com
+BOSH_DEPLOYMENT_VERSION: 270.7.0
+CF_DEPLOYMENT_VERSION: 12.3.0
